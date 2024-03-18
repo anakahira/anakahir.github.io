@@ -1,0 +1,102 @@
+    body {background-color: whitesmoke}
+
+    #nav{position: relative;
+        text-align: center;
+        font-family: Impact;
+        font-size: 20px;
+        margin: auto;
+        color: black;
+}
+    #h1 {position: relative;
+        color: black;
+        border-style:dotted;
+        border-width:thick;
+        border-radius: 80px;
+        margin: auto;
+        width: 90%}
+
+    h1.one {text-align: center;
+    font-family: Futura;
+    font-size: 50px}
+    p.one{font-family: Futura;
+    color: black}
+    
+    #diagram1 {position: relative; 
+            float: right;
+            padding: 10px}
+#diagram2 {position: relative;
+float: left;
+padding: 10px}
+    #b1, #b2, #b3, #b4 {position: relative;
+           margin: 20px;}
+
+    footer {text-align: center;
+            font-family: Helvetica;
+            border-style: dotted;
+            border-radius: 50%}
+
+    table.Element, th.Element, td.Element {
+        border-color:black;
+        border-style: solid;}
+    tr.Fire {background-color: red;}
+    tr.Earth {background-color: green;}
+    tr.Air {background-color: darkgrey;}
+    tr.Water {background-color: skyblue}
+
+    p.two, ul.two, table.Element{
+        font-family: Futura, sans-serif}
+    table.Element {font-size: 20px;
+            width: 50%;
+            height: 300px;
+            margin-left: auto;
+            margin-right: auto;}
+      h1.two{text-align: center;
+        font-family: Futura;
+        font-size: 50px;
+        color: black;
+        margin: 2px}
+    #ModalityImg {position: relative;
+        text-align: center;}
+    #ElementImg {position: relative;
+        text-align: center;}
+
+     p.three, ol.three, table.three {font-family: Futura, sans-serif;}
+       h1.three{text-align: center;
+    font-family: Futura;
+    font-size: 50px;
+    color: black;
+    margin: 2px}
+        table.three, td, th {border-color:black;
+        border-style: solid}
+        td.Cardinal {background-color:blueviolet}
+        td.Fixed {background-color: hotpink}
+        td.Mutable {background-color: aquamarine}
+        td.Fire {background-color: orangered}
+        td.Earth {background-color: burlywood}
+        td.Air {background-color: lightskyblue}
+        td.Water {background-color: royalblue}
+        td.Mars {background-color: darkred}
+        td.Venus {background-color: darkolivegreen}
+        td.Mercury {background-color: deepskyblue}
+        td.Moon {background-color: silver}
+        td.Sun {background-color: lightgoldenrodyellow}
+        td.Jupiter{background-color: seagreen}
+        td.Saturn {background-color: black;
+        color: white}
+        table.three {position:relative; float: right; padding: 5px}
+        #planetglyph {position:relative;
+        float: right}
+
+ h1.four{text-align: center;
+    font-family: Futura;
+    font-size: 50px;
+    color: black;
+    margin: 2px}
+p.four {font-family: Futura}
+#chart1 {position: relative;
+text-align: center}
+#chart2 {position: relative;
+text-align: center}
+#chart3 {position: relative;
+text-align: center}
+            
